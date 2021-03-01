@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567759110551",
+    "firebase_url": "https://milkchat-original-default-rtdb.firebaseio.com",
+    "project_id": "milkchat-original",
+    "storage_bucket": "milkchat-original.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567759110551:android:436667fd4ab9ab3c9a84d2",
+        "android_client_info": {
+          "package_name": "com.bart.milkchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567759110551-tn9l8arp3mmlhuvlsdlaq8pp2d6g0goi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7_wPlVqXCxi86lHKO-OQJ1jSGOKC_Ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567759110551-tn9l8arp3mmlhuvlsdlaq8pp2d6g0goi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
